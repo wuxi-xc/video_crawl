@@ -2,6 +2,8 @@
 # @Date: 2024-04-22 14:00:00
 
 # # -*- coding:utf-8 -*-
+
+# 同步（速度慢）
 # import requests
 # import httpx
 # import os
